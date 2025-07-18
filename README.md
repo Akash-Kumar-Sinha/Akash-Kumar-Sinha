@@ -1,15 +1,19 @@
-# Hi 👋, I'm Akash Kumar Sinha
+<h1 align="center">Hi 👋, I'm Akash Kumar Sinha</h1>
 
-**Full Stack & Infrastructure Engineer building production-grade systems across frontend, backend, and infrastructure.**  
-**Proficient in Rust, Go, TypeScript, and C++, with strong fundamentals in system design, performance optimization, and secure architecture.**
+<p align="center">
+  <strong>Full Stack & Infrastructure Engineer building production-grade systems across frontend, backend, and infrastructure.</strong><br>
+  <strong>Proficient in Rust, Go, TypeScript, and C++, with strong fundamentals in system design, performance optimization, and secure architecture.</strong>
+</p>
 
 ---
 
-## 🎨 Personal Card
+<div align="center">
 
 [![Personal Card Preview](cardImage.png)](https://akash-kumar-sinha.github.io/card_Me/)
 
-**[🔗](https://akash-kumar-sinha.github.io/card_Me/)**
+**[🔗 View Live Interactive Card](https://akash-kumar-sinha.github.io/card_Me/)**
+
+</div>
 
 ---
 
