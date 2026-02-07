@@ -9,12 +9,12 @@
 
 ### Akssora UI - UI Component Library
 
-<p align="center">
-  <img src="akssoraui.svg" alt="Akssora UI" width="40" height="40" style="vertical-align:middle;"/>
-  <a href="https://ui.akssora.com/">
-    <img src="https://img.shields.io/badge/Akssora_UI-Live-00ff88" alt="Akssora UI Live" style="vertical-align:middle;"/>
-  </a>
-</p>
+<div align="center">
+<img src="akssoraui.svg" alt="Akssora UI" width="40" height="40">
+
+[![Akssora UI](https://img.shields.io/badge/Akssora_UI-Live-00ff88)](https://ui.akssora.com/)
+
+</div>
 
 [Explore Akssora UI →](https://ui.akssora.com/)
 
