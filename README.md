@@ -1,62 +1,60 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Sinha</h1>
 
 <p align="center">
-  <strong>Full Stack & Infrastructure Engineer building production-grade systems across frontend, backend, and infrastructure.</strong><br>
-  <strong>Proficient in Rust, Go, TypeScript, and C++, with strong fundamentals in system design, performance optimization, and secure architecture.</strong>
+  <strong>I am Akash Kumar Sinha, I enjoy building production-grade systems across frontend, backend, and infrastructure. I own the full engineering stack - from building scalable, to crafting polished user experiences. My focus is on creating reliable, efficient, and secure systems that serve real users effectively.
+</strong>
 </p>
 
 ---
 
-<div align="center">
+### Akssora UI - UI Component Library
 
-[![Personal Card Preview](cardImage.png)](https://akash-kumar-sinha.github.io/card_Me/)
+<p align="center">
+  <img src="akssoraui.svg" alt="Akssora UI" width="40" height="40" style="vertical-align:middle;"/>
+  <a href="https://ui.akssora.com/">
+    <img src="https://img.shields.io/badge/Akssora_UI-Live-00ff88" alt="Akssora UI Live" style="vertical-align:middle;"/>
+  </a>
+</p>
 
-**[🔗 View Live Interactive Card](https://akash-kumar-sinha.github.io/card_Me/)**
+[Explore Akssora UI →](https://ui.akssora.com/)
 
-</div>
-
----
-
-### 🚀 About Me
-
-I enjoy owning the full engineering stack — from building scalable, multi-tenant platforms to crafting polished user experiences.  
-My focus is on creating reliable, efficient, and secure systems that serve real users effectively.
+A collection of **beautiful, animated UI components** built with React, Tailwind CSS, Framer Motion, and GSAP. Designed to help developers create stunning user interfaces with minimal effort.
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 
-💻 [Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)  
+[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)  
 A Web-based Cloud IDE offering containerized Ubuntu shells with file explorer, terminal, GitHub integration, and more.  
 Built with Rust (Axum), React (Remix), and Docker to enable powerful remote development environments.
 
 ---
 
-### 🛠 Tech Stack
+### Latest Blog Posts
 
-| Category          | Tools & Technologies                                                |
-| ----------------- | ------------------------------------------------------------------- |
-| 💻 Backend        | Rust (Axum), Go (Gin), Node.js, WebSockets                          |
-| 🌐 Frontend       | React, TypeScript, Remix, TailwindCSS, xterm.js                     |
-| ⚙️ Infrastructure | Docker, NGINX, Linux (Ubuntu), Cloud Hosting (Kamatera)             |
-| 🧠 Concepts       | System Design Fundamentals, Observability, Real-Time Infrastructure |
-| 🔐 Blockchain     | Solana, Aptos, Ethereum (ethers-rs), MEV Searchers                  |
+- [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
+- [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
 
 ---
 
-### 📚 Latest Blog Posts
+### Skills
 
-- 🔐 [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
-- 💻 [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
+**Frontend:** React, TypeScript, Tailwind CSS, Context API, Redux, Framer Motion, GSAP  
+**Backend:** Go(Gin), Rust(Axum), Node.js(Express), Microservices  
+**Database/DevOps:** PostgreSQL, Redis, GORM, Prisma, Docker, Nginx, CI/CD, GitHub Actions, Kubernetes  
+**Blockchain:** Ethereum, Solana, Smart Contracts, Foundry, Anchor  
+**DeFi Protocols:** DEX Development, AMM, Liquidity Pools, Token Standards (ERC-20, SPL)  
+**Other:** WebSocket, OAuth2, JWT
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 Open to collaboration, freelance work, and open-source contributions — feel free to reach out!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akash-krsinha/)
-- 📝 [Hashnode Blog](https://hashnode.com/@Akash-Kumar-Sinha)
-- 🐙 [GitHub](https://github.com/Akash-Kumar-Sinha)
+- [LinkedIn](https://www.linkedin.com/in/akash-krsinha/)
+- [Hashnode Blog](https://hashnode.com/@Akash-Kumar-Sinha)
+- [GitHub](https://github.com/Akash-Kumar-Sinha)
+- [aks.krsinha@gmail.com](mailto:aks.krsinha@gmail.com)
 
 ---
