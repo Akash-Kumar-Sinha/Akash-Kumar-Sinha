@@ -45,7 +45,6 @@ Real-time, lightweight, and built for reliability.
 
 ### ✍️ Latest Blog Posts
 
-- [System Design - *(coming this week)*](#)
 - [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
 - [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
 
