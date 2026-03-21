@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 **[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)**  
 A browser-based Cloud IDE with containerised Ubuntu shells, file explorer, terminal, and GitHub integration.  
@@ -19,7 +19,7 @@ Real-time, lightweight, and built for reliability.
 
 ---
 
-### 🎨 Akssora UI - Component Library
+### Akssora UI - Component Library
 
 <div align="center">
   <img src="akssoraui.svg" alt="Akssora UI" width="40" height="40"><br/>
@@ -32,7 +32,7 @@ Real-time, lightweight, and built for reliability.
 
 ---
 
-### 🛠️ Skills
+### Skills
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, Redux  
 **Backend:** Go (Gin), Rust (Axum), Node.js (Express), Microservices  
@@ -43,14 +43,15 @@ Real-time, lightweight, and built for reliability.
 
 ---
 
-### ✍️ Latest Blog Posts
+### Latest Blog Posts
 
 - [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
 - [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
+- [System Design: The Architecture That Scales](https://aks-system-design.hashnode.dev/system-design-the-architecture-that-scales)
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 Open to full-time remote roles, freelance work, and open-source collaborations.
 
