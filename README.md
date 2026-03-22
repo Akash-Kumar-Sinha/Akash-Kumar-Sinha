@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Kumar Sinha</h1>
 
 <p align="center">
-  <strong>Full Stack Engineer - I build production-grade systems from the ground up.<br/>
-  Containerised cloud IDEs in Rust, distributed systems in Go, ML pipelines, and polished frontend experiences.</strong>
+  <strong>
+      Building systems-level software - cloud IDEs in Rust, DeFi protocols on EVM, high-performance backends in Go. Focused on infrastructure and AI.
+  </strong>
 </p>
 
 ---
