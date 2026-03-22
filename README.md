@@ -49,6 +49,7 @@ Real-time, lightweight, and built for reliability.
 - [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
 - [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
 - [System Design: The Architecture That Scales](https://aks-system-design.hashnode.dev/system-design-the-architecture-that-scales)
+- [Dex Pool](https://dex-liquidity-pool.hashnode.dev/dex-liquidity-pool)
 
 ---
 
