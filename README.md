@@ -11,8 +11,8 @@
 ### Featured Projects
 
 **[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)**  
-A browser-based Cloud IDE with containerised Ubuntu shells, file explorer, terminal, and GitHub integration.  
-Built with **Rust (Axum)**, **React (Remix)**, and **Docker** for real remote development environments.
+A browser-based Cloud IDE with isolated Docker Ubuntu shells, a Monaco-powered code editor with autocompletion, xterm.js terminal, and a lazy-loaded file explorer.  
+Built with **Rust (Axum + socketioxide)**, **Next.js 16 (React 19)**, **Go** (auth), and **Docker** for real remote development environments.
 
 **[Clipboard](https://github.com/Akash-Kumar-Sinha/Clipboard)**  
 Distributed clipboard sync across devices using **Go** and **Redis Pub/Sub** for sub-millisecond propagation.  
@@ -36,11 +36,16 @@ Real-time, lightweight, and built for reliability.
 ### Skills
 
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, Redux  
-**Backend:** Go (Gin), Rust (Axum), Node.js (Express), Microservices  
+**Backend:** Go (Gin), Rust (Axum), Node.js (Express), Python (FastAPI), Microservices  
 **DevOps & Infra:** Docker, Kubernetes, Nginx, CI/CD, GitHub Actions, Linux  
-**Databases:** PostgreSQL, Redis, GORM, Prisma  
-**Other:** WebSocket, WebRTC, OAuth2, JWT  
-**Blockchain:** Ethereum, Solana, Smart Contracts, DEX, AMM, Foundry, Anchor
+**Databases:** PostgreSQL, Redis, GORM, Prisma, SQLAlchemy  
+**Other:** WebSocket, WebRTC, OAuth2, JWT, Pydantic, Pseudo Terminal (PTY)
+
+---
+
+### GitHub Activity
+
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-Kumar-Sinha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true)](https://github.com/Akash-Kumar-Sinha/github-readme-activity-graph)
 
 ---
 
