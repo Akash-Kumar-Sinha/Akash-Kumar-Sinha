@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-      Building systems-level software - cloud IDEs in Rust, DeFi protocols on EVM, high-performance backends in Go. Focused on infrastructure and AI.
+      Building systems-level software - cloud IDEs and GPU-accelerated developer tools in Rust, high-performance backends in Go. Focused on infrastructure and AI.
   </strong>
 </p>
 
@@ -13,6 +13,18 @@
 **[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)**  
 A browser-based Cloud IDE with isolated Docker Ubuntu shells, a Monaco-powered code editor with autocompletion, xterm.js terminal, and a lazy-loaded file explorer.  
 Built with **Rust (Axum + socketioxide)**, **Next.js 16 (React 19)**, **Go** (auth), and **Docker** for real remote development environments.
+
+**[Aks Terminal](https://github.com/Akash-Kumar-Sinha/terminal-emulator)**  
+A GPU-accelerated terminal emulator for Linux, written in **Rust** with **wgpu** rendering.  
+Frameless window with a custom title bar, scrollback, themeable 16-color ANSI palette, and zero-config bash integration - shipped as an installable `.deb`.
+
+**[Akssora Search](https://github.com/Akash-Kumar-Sinha/akssora_search)**  
+A multimodal search engine built on **Amazon Bedrock**, purpose-built for podcasters and educators - making every frame, every word, and every moment in a content library discoverable.  
+Containerized with **Docker Compose** for a one-command deploy.
+
+**[Bounded MPMC Queue](https://github.com/Akash-Kumar-Sinha/mpmc_queue)**  
+A bounded multi-producer multi-consumer queue in **Rust**, standard library only - no external dependencies, no `unsafe`.  
+`Mutex` + paired `Condvar`s for backpressure, with blocking and non-blocking APIs. Peaks at **~1.29M ops/sec** under benchmark.
 
 **[Clipboard](https://github.com/Akash-Kumar-Sinha/Clipboard)**  
 Distributed clipboard sync across devices using **Go** and **Redis Pub/Sub** for sub-millisecond propagation.  
@@ -29,7 +41,7 @@ Real-time, lightweight, and built for reliability.
 
 [Explore Akssora UI →](https://ui.akssora.com/)
 
-31 production-ready, animated UI components built with React, Tailwind CSS, Framer Motion, and GSAP.
+60+ production-ready, animated UI components built with React, Tailwind CSS, Framer Motion, and GSAP.
 
 ---
 
@@ -54,7 +66,6 @@ Real-time, lightweight, and built for reliability.
 - [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
 - [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
 - [System Design: The Architecture That Scales](https://aks-system-design.hashnode.dev/system-design-the-architecture-that-scales)
-- [Dex Pool](https://dex-liquidity-pool.hashnode.dev/dex-liquidity-pool)
 
 ---
 
