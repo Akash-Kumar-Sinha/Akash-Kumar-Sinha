@@ -26,9 +26,8 @@ Containerized with **Docker Compose** for a one-command deploy.
 A bounded multi-producer multi-consumer queue in **Rust**, standard library only - no external dependencies, no `unsafe`.  
 `Mutex` + paired `Condvar`s for backpressure, with blocking and non-blocking APIs. Peaks at **~1.29M ops/sec** under benchmark.
 
-**[Clipboard](https://github.com/Akash-Kumar-Sinha/Clipboard)**  
-Distributed clipboard sync across devices using **Go** and **Redis Pub/Sub** for sub-millisecond propagation.  
-Real-time, lightweight, and built for reliability.
+**[KvDb](https://github.com/Akash-Kumar-Sinha/kvdb)**  
+A disk-backed, embedded key-value store in **Rust** - custom **B+-tree** storage engine with page-based persistence and a compile-time-enforced typestate API.
 
 ---
 
