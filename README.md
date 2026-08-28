@@ -63,6 +63,4 @@ Building a **Sandbox environment** for running untrusted code in a secure and is
 
 ### Let's Connect
 
-Open to full-time remote roles, freelance work, and open-source collaborations.
-
 - [aks.krsinha@gmail.com](mailto:aks.krsinha@gmail.com)
