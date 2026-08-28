@@ -8,26 +8,43 @@
 
 ---
 
-### Featured Projects
+## About Me
 
-**[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)**  
-A browser-based Cloud IDE with isolated Docker Ubuntu shells, a Monaco-powered code editor with autocompletion, xterm.js terminal, and a lazy-loaded file explorer.  
-Built with **Rust (Axum + socketioxide)**, **Next.js 16 (React 19)**, **Go** (auth), and **Docker** for real remote development environments.
+I’ve always been curious about what happens under the hood.
 
-**[Aks Terminal](https://github.com/Akash-Kumar-Sinha/terminal-emulator)**  
-A GPU-accelerated terminal emulator for Linux, written in **Rust** with **wgpu** rendering.  
-Frameless window with a custom title bar, scrollback, themeable 16-color ANSI palette, and zero-config bash integration - shipped as an installable `.deb`.
+As a software engineer, I’m less interested in simply using a tool as a wrapper and more interested in understanding what makes it work—the systems, the abstractions, the trade-offs, and the engineering decisions behind it. For me, learning how something works is often more exciting than simply using it.
 
-**[Akssora Search](https://github.com/Akash-Kumar-Sinha/akssora_search)**  
-A multimodal search engine built on **Amazon Bedrock**, purpose-built for podcasters and educators - making every frame, every word, and every moment in a content library discoverable.  
-Containerized with **Docker Compose** for a one-command deploy.
+That’s also why writing CRUD at 2 a.m. doesn’t excite me much anymore. These days, even AI can handle much of that work. The interesting part, at least for me, starts when there’s a real problem to solve and no obvious answer.
 
-**[Bounded MPMC Queue](https://github.com/Akash-Kumar-Sinha/mpmc_queue)**  
-A bounded multi-producer multi-consumer queue in **Rust**, standard library only - no external dependencies, no `unsafe`.  
-`Mutex` + paired `Condvar`s for backpressure, with blocking and non-blocking APIs. Peaks at **~1.29M ops/sec** under benchmark.
+I enjoy thinking about the architecture, figuring out where things might break, questioning my own decisions, and dreaming, “What happens if my platform reaches a million users?” Then comes the interesting part: figuring out how to make it scale.
+
+That process of learning something new, building it from the ground up, finding mistakes, breaking things, and understanding why they broke is what keeps me excited about software engineering.
+
+I don’t just want to build applications. I want to understand and build the systems that make them possible.
+
+### Projects
 
 **[KvDb](https://github.com/Akash-Kumar-Sinha/kvdb)**  
 A disk-backed, embedded key-value store in **Rust** - custom **B+-tree** storage engine with page-based persistence and a compile-time-enforced typestate API.
+
+**[Splice](https://github.com/Akash-Kumar-Sinha/splice)**  
+A Version control System for large files mainly Videos, Images, and Audio files. It uses a custom **Merkle DAG** to store file versions and a **content-addressable storage** to store the file contents.
+
+**[Aks IDE](https://github.com/Akash-Kumar-Sinha/Aks_ide)**  
+A browser-based Cloud IDE with isolated Docker Ubuntu shells, a Monaco-powered code editor with autocompletion, xterm.js terminal, and a lazy-loaded file explorer.
+
+**[Aks Terminal](https://github.com/Akash-Kumar-Sinha/terminal-emulator)**  
+Frameless window with a custom title bar, scrollback, themeable 16-color ANSI palette, and zero-config bash integration - shipped as an installable `.deb`.
+
+**[Bounded MPMC Queue](https://github.com/Akash-Kumar-Sinha/mpmc_queue)**  
+A bounded multi-producer multi-consumer queue in **Rust**, standard library only - no external dependencies, no `unsafe`.
+
+### Working
+
+**[Akssora](https://github.com/Akash-Kumar-Sinha/Akssora)**
+Building a **Sandbox environment** for running untrusted code in a secure and isolated manner, with support for multiple programming languages and frameworks.
+
+## Fun projects
 
 ---
 
@@ -44,35 +61,8 @@ A disk-backed, embedded key-value store in **Rust** - custom **B+-tree** storage
 
 ---
 
-### Skills
-
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, Framer Motion, GSAP, Redux  
-**Backend:** Go (Gin), Rust (Axum), Node.js (Express), Python (FastAPI), Microservices  
-**DevOps & Infra:** Docker, Kubernetes, Nginx, CI/CD, GitHub Actions, Linux  
-**Databases:** PostgreSQL, Redis, GORM, Prisma, SQLAlchemy  
-**Other:** WebSocket, WebRTC, OAuth2, JWT, Pydantic, Pseudo Terminal (PTY)
-
----
-
-### GitHub Activity
-
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akash-Kumar-Sinha&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79c0ff&area=true&hide_border=true)](https://github.com/Akash-Kumar-Sinha/github-readme-activity-graph)
-
----
-
-### Latest Blog Posts
-
-- [Introducing Aks IDE Terminal Module](https://akside.hashnode.dev/introducing-aks-ide-terminal-module)
-- [Understanding Authentication: From Basics to Token-Based Security](https://aks-modern-auth.hashnode.dev/understanding-authentication-from-basics-to-token-based-security)
-- [System Design: The Architecture That Scales](https://aks-system-design.hashnode.dev/system-design-the-architecture-that-scales)
-
----
-
 ### Let's Connect
 
 Open to full-time remote roles, freelance work, and open-source collaborations.
 
-- [LinkedIn](https://www.linkedin.com/in/akash-krsinha/)
-- [Blog](https://hashnode.com/@Akash-Kumar-Sinha)
-- [GitHub](https://github.com/Akash-Kumar-Sinha)
 - [aks.krsinha@gmail.com](mailto:aks.krsinha@gmail.com)
